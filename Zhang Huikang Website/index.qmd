@@ -1,0 +1,24 @@
+---
+title: Zhang Huikang
+sidebar: false
+---
+---
+about:
+  template: jolla
+  id: about-block
+  image: "imgs/icon.png"
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/ZhangHuikang0114/ZhangHuiKang
+---
+
+::: {#about-block}
+:::
+
+#  my website!
+
+## -----BSU，EM24-A，Zhang Huikang
+### ----I'm from Inner Mongolia, majoring in music performance, and I love to sing.
+
+
